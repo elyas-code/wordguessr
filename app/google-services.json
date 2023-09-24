@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "672854531464",
+    "project_id": "wordguessr-fc726",
+    "storage_bucket": "wordguessr-fc726.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672854531464:android:828d3124b9a1379b6bee3d",
+        "android_client_info": {
+          "package_name": "com.lazercorp.wordguessr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAyaI7F15f_dLFs5t7rfcmanGgkaBTR28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
